@@ -1,0 +1,8 @@
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\bin\Debug\sum of square numbers.exe.config
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\bin\Debug\sum of square numbers.exe
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\bin\Debug\sum of square numbers.pdb
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\obj\Debug\sum_of_square_numbers.Form1.resources
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\obj\Debug\sum_of_square_numbers.Properties.Resources.resources
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\obj\Debug\sum of square numbers.csproj.GenerateResource.Cache
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\obj\Debug\sum of square numbers.exe
+C:\Users\farmerb01\Desktop\sum of square numbers\sum of square numbers\obj\Debug\sum of square numbers.pdb
